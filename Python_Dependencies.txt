@@ -1,0 +1,10 @@
+Summary of the Python dependencies being used:
+
+pandas: For data manipulation and analysis.
+numpy: For numerical operations, especially with arrays.
+matplotlib.pyplot: For creating static, interactive, and animated visualizations.
+seaborn: For statistical data visualization.
+scikit-learn (sklearn): For machine learning tasks, including preprocessing (OneHotEncoder, StandardScaler), clustering (KMeans), dimensionality reduction (PCA), model training (RandomForestClassifier), and evaluation metrics.
+gspread: For interacting with Google Sheets.
+google.colab.auth and google.auth.default: For Google Colab authentication.
+shap: For model explainability, specifically for calculating and visualizing SHAP values. This library was explicitly installed via !pip install shap.
