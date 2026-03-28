@@ -1,1 +1,2 @@
+# To clean data, we handled the missing values (see 02_preprecessing.ipynb) and then directly undegone EDA and feature engineering.
 
