@@ -1,5 +1,5 @@
 AIM Pillar 5 Capstone: Ai-Driven Credit Investigation
--John M. Moises
+-John Michael Moises
 
 How to view:
 Data folder: for raw and processed data
